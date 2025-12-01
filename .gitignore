@@ -1,0 +1,14 @@
+# Go binaries
+*.exe
+*.out
+*.test
+
+# Build dirs
+bin/
+dist/
+
+# Vendor
+vendor/
+
+# macOS
+.DS_Store
